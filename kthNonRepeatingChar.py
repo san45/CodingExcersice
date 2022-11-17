@@ -29,5 +29,3 @@ def find_first_rep(string,k):
 				
 	
 print(find_first_rep("geeksforgeeks",2))
-
-#TEST
